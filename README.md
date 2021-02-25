@@ -1,2 +1,2 @@
 # python-Heart-with-text
-This is a python program with a two line of code which generates a shape of heart with the text input by user
+Two line python code which generate shape of a heat with the text inputted.
