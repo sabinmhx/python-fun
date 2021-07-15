@@ -1,2 +1,3 @@
-# python-heart-text
-Two line python code which generate shape of a heat with the text inputted.
+# python-fun
+Fun python single file programs to do stuffs.
+Currently, these are the codes with repls.
