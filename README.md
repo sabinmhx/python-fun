@@ -1,6 +1,6 @@
 # python-fun
 Fun python single file programs to do stuffs.  
-Check out these programs and output  
+Check out these programs and output as repls 👇  
 [**Digital Clock**](https://replit.com/@sabinmhx/python-digital-clock)  
 [**Heart Shape**](https://replit.com/@sabinmhx/python-heart-shape)  
 [**Scientific Calculator**](https://replit.com/@sabinmhx/python-scientific-calculator)  
