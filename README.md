@@ -1,5 +1,5 @@
 # python-fun
-Fun python single file programs to do stuffs.
+Fun python single file programs to do stuffs.  
 Check out these programs and output  
 [**Digital Clock**](https://replit.com/@sabinmhx/python-digital-clock)  
 [**Heart Shape**](https://replit.com/@sabinmhx/python-heart-shape)  
