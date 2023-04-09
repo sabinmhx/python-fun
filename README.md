@@ -1,4 +1,4 @@
-# python-fun
+# Python Fun
 Fun python single file programs to do stuffs.  
 Check out these 👇 programs and output in repl    
 [**Digital Clock**](https://replit.com/@sabinmhx/Digital-Clock)  
